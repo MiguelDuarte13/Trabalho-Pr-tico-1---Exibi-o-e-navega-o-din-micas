@@ -1,0 +1,34 @@
+body{
+  background:#111;
+  color:white;
+}
+
+.hero{
+  height:60vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:url("../img/rush.jpg") center/cover;
+}
+
+.filme-card{
+  background:#1e1e1e;
+  color:white;
+}
+
+.filme-card:hover{
+  transform:scale(1.03);
+  transition:.3s;
+}
+
+.detalhe-box{
+  background:#1e1e1e;
+  padding:20px;
+  border-radius:10px;
+}
+
+footer{
+  text-align:center;
+  padding:20px;
+  background:black;
+}
