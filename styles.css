@@ -1,0 +1,28 @@
+.btn-details {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #0077ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-details:hover {
+    background-color: #0055cc;
+}
+
+#product-details {
+    max-width: 800px;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#product-details img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin-bottom: 20px;
+}
